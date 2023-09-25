@@ -1,0 +1,12 @@
+{
+  "#": 24789,
+  "name": "Nathan Skotnes",
+  "email": "nathan.skotnes@example.com",
+  "adresse": {
+    "straße": "Avstikkeren",
+    "nummer": 7436,
+    "postleitzahl": "3426",
+    "ort": "Heggelia",
+    "land": "Norway"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "#": 24787,
+  "name": "Mauricio Regalado",
+  "email": "mauricio.regalado@example.com",
+  "adresse": {
+    "straße": "Peatonal Norte Jurado",
+    "nummer": 3516,
+    "postleitzahl": 96132,
+    "ort": "Yávaros (Isla Las Viejas)",
+    "land": "Mexico"
+  }
+}

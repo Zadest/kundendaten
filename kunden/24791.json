@@ -1,0 +1,12 @@
+{
+  "#": 24791,
+  "name": "Nathan Joly",
+  "email": "nathan.joly@example.com",
+  "adresse": {
+    "straße": "Rue de L'Abbé-Carton",
+    "nummer": 7293,
+    "postleitzahl": 81859,
+    "ort": "Tourcoing",
+    "land": "France"
+  }
+}

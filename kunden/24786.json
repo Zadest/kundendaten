@@ -1,0 +1,12 @@
+{
+  "#": 24786,
+  "name": "Octavio Palomo",
+  "email": "octavio.palomo@example.com",
+  "adresse": {
+    "straße": "Andador Jamaica",
+    "nummer": 727,
+    "postleitzahl": 37600,
+    "ort": "Santa Cruz",
+    "land": "Mexico"
+  }
+}

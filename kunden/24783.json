@@ -1,0 +1,12 @@
+{
+  "#": 24783,
+  "name": "Benjamin Rasmussen",
+  "email": "benjamin.rasmussen@example.com",
+  "adresse": {
+    "straße": "Maribovej",
+    "nummer": 6490,
+    "postleitzahl": 69679,
+    "ort": "Silkeboeg",
+    "land": "Denmark"
+  }
+}

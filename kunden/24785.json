@@ -1,0 +1,12 @@
+{
+  "#": 24785,
+  "name": "Siegried Ertl",
+  "email": "siegried.ertl@example.com",
+  "adresse": {
+    "straße": "Schulstraße",
+    "nummer": 6906,
+    "postleitzahl": 62084,
+    "ort": "Isselburg",
+    "land": "Germany"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "#": 24793,
+  "name": "Harry White",
+  "email": "harry.white@example.com",
+  "adresse": {
+    "straße": "Victoria Avenue",
+    "nummer": 3328,
+    "postleitzahl": 94381,
+    "ort": "Hamilton",
+    "land": "New Zealand"
+  }
+}

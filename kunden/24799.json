@@ -1,0 +1,12 @@
+{
+  "#": 24799,
+  "name": "Tristan Roy",
+  "email": "tristan.roy@example.com",
+  "adresse": {
+    "straße": "Pine Rd",
+    "nummer": 5476,
+    "postleitzahl": "S9F 3B9",
+    "ort": "St. George",
+    "land": "Canada"
+  }
+}

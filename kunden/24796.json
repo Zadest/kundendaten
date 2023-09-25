@@ -1,0 +1,12 @@
+{
+  "#": 24796,
+  "name": "Melissa Gardner",
+  "email": "melissa.gardner@example.com",
+  "adresse": {
+    "straße": "King Street",
+    "nummer": 9534,
+    "postleitzahl": "U77 9RE",
+    "ort": "Stoke-on-Trent",
+    "land": "United Kingdom"
+  }
+}

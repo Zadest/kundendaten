@@ -1,0 +1,12 @@
+{
+  "#": 24784,
+  "name": "Karl-Georg Lippert",
+  "email": "karl-georg.lippert@example.com",
+  "adresse": {
+    "straße": "Bahnhofstraße",
+    "nummer": 5151,
+    "postleitzahl": 47205,
+    "ort": "Bad Freienwalde (Oder)",
+    "land": "Germany"
+  }
+}

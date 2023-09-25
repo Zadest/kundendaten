@@ -1,0 +1,12 @@
+{
+  "#": 24788,
+  "name": "Cord Wiemann",
+  "email": "cord.wiemann@example.com",
+  "adresse": {
+    "straße": "Mittelstraße",
+    "nummer": 8446,
+    "postleitzahl": 56444,
+    "ort": "Eltville am Rhein",
+    "land": "Germany"
+  }
+}

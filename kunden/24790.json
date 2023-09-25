@@ -1,0 +1,12 @@
+{
+  "#": 24790,
+  "name": "Yvan Sanchez",
+  "email": "yvan.sanchez@example.com",
+  "adresse": {
+    "straße": "Rue Docteur-Bonhomme",
+    "nummer": 738,
+    "postleitzahl": 3539,
+    "ort": "Frasco",
+    "land": "Switzerland"
+  }
+}

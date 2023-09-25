@@ -1,0 +1,12 @@
+{
+  "#": 24802,
+  "name": "John Terry",
+  "email": "john.terry@example.com",
+  "adresse": {
+    "straße": "The Avenue",
+    "nummer": 4838,
+    "postleitzahl": 55413,
+    "ort": "Westport",
+    "land": "Ireland"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "#": 24797,
+  "name": "Florencia Marrero",
+  "email": "florencia.marrero@example.com",
+  "adresse": {
+    "straße": "Ampliación Sur Rael",
+    "nummer": 73,
+    "postleitzahl": 37290,
+    "ort": "Baca",
+    "land": "Mexico"
+  }
+}

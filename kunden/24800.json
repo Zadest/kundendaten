@@ -1,0 +1,12 @@
+{
+  "#": 24800,
+  "name": "Servé Ijntema",
+  "email": "serve.ijntema@example.com",
+  "adresse": {
+    "straße": "Geulgracht",
+    "nummer": 8480,
+    "postleitzahl": "8360 CC",
+    "ort": "Reijmerstok",
+    "land": "Netherlands"
+  }
+}

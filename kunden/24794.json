@@ -1,0 +1,12 @@
+{
+  "#": 24794,
+  "name": "Sofia Joki",
+  "email": "sofia.joki@example.com",
+  "adresse": {
+    "straße": "Aleksanterinkatu",
+    "nummer": 8730,
+    "postleitzahl": 14599,
+    "ort": "Tervola",
+    "land": "Finland"
+  }
+}

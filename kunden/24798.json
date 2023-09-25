@@ -1,0 +1,12 @@
+{
+  "#": 24798,
+  "name": "Kenneth Meidell",
+  "email": "kenneth.meidell@example.com",
+  "adresse": {
+    "straße": "Bernhard Herres vei",
+    "nummer": 1922,
+    "postleitzahl": "0877",
+    "ort": "Øyslebø",
+    "land": "Norway"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "#": 24795,
+  "name": "Lukas Rey",
+  "email": "lukas.rey@example.com",
+  "adresse": {
+    "straße": "Rue D'Abbeville",
+    "nummer": 9430,
+    "postleitzahl": 83475,
+    "ort": "Angers",
+    "land": "France"
+  }
+}

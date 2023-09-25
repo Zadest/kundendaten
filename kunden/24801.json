@@ -1,0 +1,12 @@
+{
+  "#": 24801,
+  "name": "Moritz Lucas",
+  "email": "moritz.lucas@example.com",
+  "adresse": {
+    "straße": "Rue des Chartreux",
+    "nummer": 724,
+    "postleitzahl": 6059,
+    "ort": "Beckenried",
+    "land": "Switzerland"
+  }
+}
